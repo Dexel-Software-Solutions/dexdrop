@@ -8,14 +8,7 @@ A dependency-free, single-file Python security scanner for source
 repositories, infrastructure configuration, container definitions, CI/CD
 workflows, and dependency manifests.
 
-```{=html}
-
-**Built by [Demiyan
-Dissanayake](https://github.com/dexel-software-solutions) · Dexel
-Software Solutions**
-:::
-
-------------------------------------------------------------------------
+```
 
 ## Overview
 
@@ -379,10 +372,9 @@ applicable license terms.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Dexdrop · Security checks that fit your development workflow.**
 
-`<sub>`{=html}Designed for visibility, actionable findings, and
+Designed for visibility, actionable findings, and
 repeatable scanning---not as a substitute for security
-judgment.`</sub>`{=html}
-:::
+judgment.
+
