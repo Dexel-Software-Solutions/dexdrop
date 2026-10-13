@@ -1,4 +1,3 @@
-::: {align="center"}
 # Dexdrop
 
 ### Enterprise-Oriented DevSecOps Security Scanner
@@ -10,15 +9,7 @@ repositories, infrastructure configuration, container definitions, CI/CD
 workflows, and dependency manifests.
 
 ```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/version-1.3.0-0AEFFF?style=for-the-badge&labelColor=0d1117" alt="Version 1.3.0">`{=html}
-`<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">`{=html}
-`<img src="https://img.shields.io/badge/Dependencies-Standard%20Library-2E8B57?style=for-the-badge" alt="Standard library">`{=html}
-`<img src="https://img.shields.io/badge/Reports-JSON%20%7C%20SARIF%20%7C%20HTML-7C3AED?style=for-the-badge" alt="Report formats">`{=html}
-```{=html}
-</p>
-```
+
 **Built by [Demiyan
 Dissanayake](https://github.com/dexel-software-solutions) · Dexel
 Software Solutions**
